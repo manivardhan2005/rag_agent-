@@ -56,12 +56,5 @@ An intelligent Retrieval-Augmented Generation (RAG) assistant designed to help u
 5. **Open the App**
    Navigate to [http://localhost:3000](http://localhost:3000) in your browser.
 
-## 🛠️ Data Ingestion (Optional)
-If you want to re-run the embedding process or add new documents:
-```bash
-npx tsx scripts/ingest.ts
-```
-*Note: This requires valid API credentials and might consume a significant amount of API quota depending on the dataset size.*
-
 ## 📜 License
 This project is open-source and available under the MIT License.
