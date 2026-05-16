@@ -56,5 +56,3 @@ An intelligent Retrieval-Augmented Generation (RAG) assistant designed to help u
 5. **Open the App**
    Navigate to [http://localhost:3000](http://localhost:3000) in your browser.
 
-## 📜 License
-This project is open-source and available under the MIT License.
